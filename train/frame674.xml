@@ -1,0 +1,38 @@
+<annotation>
+	<folder>A21 images</folder>
+	<filename>frame674.jpg</filename>
+	<path>C:\Users\Vishwanath Varma\Documents\A21 images\frame674.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymin>565</ymin>
+			<xmax>393</xmax>
+			<ymax>741</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>663</xmin>
+			<ymin>559</ymin>
+			<xmax>743</xmax>
+			<ymax>740</ymax>
+		</bndbox>
+	</object>
+</annotation>
