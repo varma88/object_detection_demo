@@ -1,0 +1,38 @@
+<annotation>
+	<folder>A21 images</folder>
+	<filename>frame319.jpg</filename>
+	<path>C:\Users\Vishwanath Varma\Documents\A21 images\frame319.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1048</xmin>
+			<ymin>369</ymin>
+			<xmax>1208</xmax>
+			<ymax>529</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1742</xmin>
+			<ymin>206</ymin>
+			<xmax>1802</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+</annotation>
