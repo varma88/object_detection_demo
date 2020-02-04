@@ -1,0 +1,38 @@
+<annotation>
+	<folder>A38 images</folder>
+	<filename>frame1677.jpg</filename>
+	<path>C:\Users\Vishwanath Varma\Documents\images\A38 images\frame1677.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>738</ymin>
+			<xmax>348</xmax>
+			<ymax>875</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>436</xmin>
+			<ymin>887</ymin>
+			<xmax>637</xmax>
+			<ymax>942</ymax>
+		</bndbox>
+	</object>
+</annotation>

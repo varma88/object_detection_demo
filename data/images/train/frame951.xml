@@ -1,0 +1,38 @@
+<annotation>
+	<folder>A21 images2</folder>
+	<filename>frame951.jpg</filename>
+	<path>C:\Users\Vishwanath Varma\Documents\A21 images2\frame951.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>792</xmin>
+			<ymin>741</ymin>
+			<xmax>1013</xmax>
+			<ymax>797</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1202</xmin>
+			<ymin>629</ymin>
+			<xmax>1417</xmax>
+			<ymax>674</ymax>
+		</bndbox>
+	</object>
+</annotation>
