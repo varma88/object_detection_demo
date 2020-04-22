@@ -1,0 +1,38 @@
+<annotation>
+	<folder>A14</folder>
+	<filename>frame2414.jpg</filename>
+	<path>C:\Users\Vishwanath Varma\Documents\images\A14\frame2414.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>568</ymin>
+			<xmax>408</xmax>
+			<ymax>703</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>282</ymin>
+			<xmax>250</xmax>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+</annotation>

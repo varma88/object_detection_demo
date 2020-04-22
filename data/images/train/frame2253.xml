@@ -1,0 +1,38 @@
+<annotation>
+	<folder>A5014 images</folder>
+	<filename>frame2253.jpg</filename>
+	<path>C:\Users\Vishwanath Varma\Documents\images\A5014 images\frame2253.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>126</ymin>
+			<xmax>436</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>48</ymin>
+			<xmax>561</xmax>
+			<ymax>106</ymax>
+		</bndbox>
+	</object>
+</annotation>

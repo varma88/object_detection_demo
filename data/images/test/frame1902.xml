@@ -1,0 +1,38 @@
+<annotation>
+	<folder>A5014 images</folder>
+	<filename>frame1902.jpg</filename>
+	<path>C:\Users\Vishwanath Varma\Documents\images\A5014 images\frame1902.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>166</ymin>
+			<xmax>325</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>361</xmin>
+			<ymin>75</ymin>
+			<xmax>417</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>

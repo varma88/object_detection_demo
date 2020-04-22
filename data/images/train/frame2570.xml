@@ -1,0 +1,38 @@
+<annotation>
+	<folder>N9</folder>
+	<filename>frame2570.jpg</filename>
+	<path>C:\Users\Vishwanath Varma\Documents\images\N9\frame2570.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>321</xmin>
+			<ymin>913</ymin>
+			<xmax>532</xmax>
+			<ymax>971</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>297</xmin>
+			<ymin>491</ymin>
+			<xmax>519</xmax>
+			<ymax>563</ymax>
+		</bndbox>
+	</object>
+</annotation>
